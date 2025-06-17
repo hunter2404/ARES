@@ -49,7 +49,8 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-ROOT_URLCONF = "anubis.urls"
+ROOT_URLCONF = 'anubis.anubis.urls'
+
 
 TEMPLATES = [
     {
